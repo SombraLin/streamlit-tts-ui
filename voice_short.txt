@@ -1,0 +1,188 @@
+[
+    {
+        "Gender": "Female",
+        "ShortName": "zh-CN-XiaoxiaoNeural",
+        "Voicer": "zh-CN-XiaoxiaoNeural",
+        "ShortNameCN": "普通话-中国-晓晓Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "zh-CN-XiaoyiNeural",
+        "Voicer": "zh-CN-XiaoyiNeural",
+        "ShortNameCN": "普通话-中国-晓依Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "zh-CN-YunjianNeural",
+        "Voicer": "zh-CN-YunjianNeural",
+        "ShortNameCN": "普通话-中国-云健Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "zh-CN-YunxiNeural",
+        "Voicer": "zh-CN-YunxiNeural",
+        "ShortNameCN": "普通话-中国-云曦Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "zh-CN-YunxiaNeural",
+        "Voicer": "zh-CN-YunxiaNeural",
+        "ShortNameCN": "普通话-中国-云夏Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "zh-CN-YunyangNeural",
+        "Voicer": "zh-CN-YunyangNeural",
+        "ShortNameCN": "普通话-中国-云扬Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "zh-CN-liaoning-XiaobeiNeural",
+        "Voicer": "zh-CN-liaoning-XiaobeiNeural",
+        "ShortNameCN": "普通话-辽宁-晓蓓Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "zh-TW-HsiaoChenNeural",
+        "Voicer": "zh-TW-HsiaoChenNeural",
+        "ShortNameCN": "普通话-台湾-晓宸Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "zh-TW-YunJheNeural",
+        "Voicer": "zh-TW-YunJheNeural",
+        "ShortNameCN": "普通话-台湾-云哲Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "zh-TW-HsiaoYuNeural",
+        "Voicer": "zh-TW-HsiaoYuNeural",
+        "ShortNameCN": "普通话-台湾-晓瑜Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "zh-CN-shaanxi-XiaoniNeural",
+        "Voicer": "zh-CN-shaanxi-XiaoniNeural",
+        "ShortNameCN": "普通话-陕西-晓妮Neural"
+    },
+        {
+        "Gender": "Female",
+        "ShortName": "zh-HK-HiuGaaiNeural",
+        "Voicer": "zh-HK-HiuGaaiNeural",
+        "ShortNameCN": "粤语-香港-晓佳Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "zh-HK-HiuMaanNeural",
+        "Voicer": "zh-HK-HiuMaanNeural",
+        "ShortNameCN": "粤语-香港-晓曼Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "zh-HK-WanLungNeural",
+        "Voicer": "zh-HK-WanLungNeural",
+        "ShortNameCN": "粤语-香港-云龙Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-AvaMultilingualNeural",
+        "Voicer": "en-US-AvaMultilingualNeural",
+        "ShortNameCN": "英语-美国-艾娃多语言Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-AndrewMultilingualNeural",
+        "Voicer": "en-US-AndrewMultilingualNeural",
+        "ShortNameCN": "英语-美国-安德鲁多语言Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-EmmaMultilingualNeural",
+        "Voicer": "en-US-EmmaMultilingualNeural",
+        "ShortNameCN": "英语-美国-艾玛多语言Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-BrianMultilingualNeural",
+        "Voicer": "en-US-BrianMultilingualNeural",
+        "ShortNameCN": "英语-美国-布莱恩多语言Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-AvaNeural",
+        "Voicer": "en-US-AvaNeural",
+        "ShortNameCN": "英语-美国-艾娃Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-AndrewNeural",
+        "Voicer": "en-US-AndrewNeural",
+        "ShortNameCN": "英语-美国-安德鲁Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-EmmaNeural",
+        "Voicer": "en-US-EmmaNeural",
+        "ShortNameCN": "英语-美国-艾玛Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-BrianNeural",
+        "Voicer": "en-US-BrianNeural",
+        "ShortNameCN": "英语-美国-布莱恩Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-AnaNeural",
+        "Voicer": "en-US-AnaNeural",
+        "ShortNameCN": "英语-美国-安娜Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-AriaNeural",
+        "Voicer": "en-US-AriaNeural",
+        "ShortNameCN": "英语-美国-阿里亚Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-ChristopherNeural",
+        "Voicer": "en-US-ChristopherNeural",
+        "ShortNameCN": "英语-美国-克里斯托弗Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-EricNeural",
+        "Voicer": "en-US-EricNeural",
+        "ShortNameCN": "英语-美国-埃里克Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-GuyNeural",
+        "Voicer": "en-US-GuyNeural",
+        "ShortNameCN": "英语-美国-盖伊Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-JennyNeural",
+        "Voicer": "en-US-JennyNeural",
+        "ShortNameCN": "英语-美国-珍妮Neural"
+    },
+    {
+        "Gender": "Female",
+        "ShortName": "en-US-MichelleNeural",
+        "Voicer": "en-US-MichelleNeural",
+        "ShortNameCN": "英语-美国-米歇尔Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-RogerNeural",
+        "Voicer": "en-US-RogerNeural",
+        "ShortNameCN": "英语-美国-罗杰Neural"
+    },
+    {
+        "Gender": "Male",
+        "ShortName": "en-US-SteffanNeural",
+        "Voicer": "en-US-SteffanNeural",
+        "ShortNameCN": "英语-美国-斯蒂芬Neural"
+    }
+]

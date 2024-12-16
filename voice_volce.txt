@@ -1,0 +1,297 @@
+[
+	{
+		"Gender": "通用",
+		"ShortName": "擎苍",
+		"Voicer": "BV701_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "灿灿2.0",
+		"Voicer": "BV700_V2_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "炀炀",
+		"Voicer": "BV705_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "擎苍2.0",
+		"Voicer": "BV701_V2_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "通用女声2.0",
+		"Voicer": "BV001_V2_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "灿灿",
+		"Voicer": "BV700_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "超自然音色-梓梓2.0",
+		"Voicer": "BV406_V2_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "超自然音色-梓梓",
+		"Voicer": "BV406_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "超自然音色-燃燃2.0",
+		"Voicer": "BV407_V2_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "超自然音色-燃燃",
+		"Voicer": "BV407_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "通用女声",
+		"Voicer": "BV001_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "通用男声",
+		"Voicer": "BV002_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "阳光青年",
+		"Voicer": "BV123_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "反卷青年",
+		"Voicer": "BV120_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "通用赘婿",
+		"Voicer": "BV119_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "古风少御",
+		"Voicer": "BV115_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "霸气青叔",
+		"Voicer": "BV107_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "质朴青年",
+		"Voicer": "BV100_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "温柔淑女",
+		"Voicer": "BV104_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "开朗青年",
+		"Voicer": "BV004_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "甜宠少御",
+		"Voicer": "BV113_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "儒雅青年",
+		"Voicer": "BV102_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "甜美小源",
+		"Voicer": "BV405_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "亲切女声",
+		"Voicer": "BV007_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "知性女声",
+		"Voicer": "BV009_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "诚诚",
+		"Voicer": "BV419_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "童童",
+		"Voicer": "BV415_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "亲切通用",
+		"Voicer": "BV008_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "译制片通用",
+		"Voicer": "BV408_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "懒小羊",
+		"Voicer": "BV426_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "清新文艺女声",
+		"Voicer": "BV428_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "鸡汤女声",
+		"Voicer": "BV403_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "智慧老者",
+		"Voicer": "BV158_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "慈爱姥姥",
+		"Voicer": "BV157_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "说唱小哥",
+		"Voicer": "BR001_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "活力解说男",
+		"Voicer": "BV410_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "影视解说小帅",
+		"Voicer": "BV411_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "解说小帅-多情感",
+		"Voicer": "BV437_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "影视解说小美",
+		"Voicer": "BV412_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "纨绔青年",
+		"Voicer": "BV159_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "直播一姐",
+		"Voicer": "BV418_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "反卷青年",
+		"Voicer": "BV120_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "沉稳解说男",
+		"Voicer": "BV142_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "潇洒青年",
+		"Voicer": "BV143_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "阳光通用",
+		"Voicer": "BV056_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "活泼女声",
+		"Voicer": "BV005_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "小萝莉",
+		"Voicer": "BV064_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "奶气萌娃",
+		"Voicer": "BV051_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "动漫海绵",
+		"Voicer": "BV063_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "动漫海星",
+		"Voicer": "BV417_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "动漫小新",
+		"Voicer": "BV050_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "天才童声",
+		"Voicer": "BV061_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "促销通用",
+		"Voicer": "BV401_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "促销女声",
+		"Voicer": "BV402_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "磁性通用",
+		"Voicer": "BV006_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "新闻女声",
+		"Voicer": "BV011_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "新闻通用",
+		"Voicer": "BV012_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "知性姐姐-双语",
+		"Voicer": "BV034_streaming"
+	},
+	{
+		"Gender": "通用",
+		"ShortName": "温柔小哥",
+		"Voicer": "BV033_streaming"
+	}
+]
